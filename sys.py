@@ -35,8 +35,3 @@ if __name__=="__main__":
     main()
     exit()
 
-<<<<<<< HEAD:Sheet.py
-=======
-
-    
->>>>>>> 163978e087812a186f669339de67b89efc3632da:Argparse
