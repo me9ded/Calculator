@@ -33,9 +33,4 @@ def main():
         divide(Number1,Number2)
 if __name__=="__main__":
     main()
-    exit()
-
-<<<<<<< HEAD
-=======
-
->>>>>>> 31988fd18e0b287791d25a8f03db7ab216654128
+    exit()    
