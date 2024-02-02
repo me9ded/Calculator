@@ -10,10 +10,7 @@ op_selected=str(sys.argv[3])
 def add(n1,n2):
     print(f" result: {n1+n2}")
 def sub(n1,n2):
-    if n1>n2:
-        print(f"result: {n1-n2}")
-    else:
-        print(f"result: {n2-n1}")
+    print(f"result: {abs(n1-n2)}")
 def divide(n1,n2):
     if n2==0:
         print("Error cannot divide by 0")
